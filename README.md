@@ -1,2 +1,33 @@
-# TEAM-CODE-WIZARDS
-This project detects Cheerios and Soup cans using a YOLOv8 model trained on synthetic images from Duality AI’s Falcon space station simulator. The model was trained for 20 epochs and deployed with a Streamlit app to allow real-time object detection on uploaded images.
+# 🚀 Duality AI - Space Station Object Detector
+
+This project was built for the **Duality AI - Space Station Hackathon**. We trained a YOLOv8 object detection model using synthetic images generated from the Falcon digital twin simulation platform to detect key space station items.
+
+---
+
+## 🛰️ Problem Statement
+
+Detect space station objects such as **cheerios** and **soup cans** using synthetic data — enabling accurate detection in environments difficult to access physically.
+
+---
+
+## 💡 Solution Overview
+
+- Used **Falcon (Duality AI)** to generate synthetic training images with varied lighting and occlusions.
+- Trained a YOLOv8n model for 50 epochs.
+- Achieved **mAP@50 of 0.668**.
+- Deployed the model via an interactive **Streamlit web app** for real-time detection.
+
+---
+
+## 🧰 Technologies Used
+
+- Falcon (Duality AI)
+- YOLOv8 (Ultralytics)
+- Python, OpenCV, PIL
+- Streamlit (for UI)
+- GitHub (for submission)
+
+---
+
+## 📦 Folder Structure
+
