@@ -17,7 +17,7 @@ Detect space station objects such as **cheerios** and **soup cans** using synthe
 
 - Used **Falcon (Duality AI)** to generate synthetic training images with varied lighting and occlusions.
 - Trained a YOLOv8n model for 50 epochs.
-- Achieved **mAP@50 of 0.668**.
+- Achieved **mAP@50 of 0.67332**.
 - Deployed the model via an interactive **Streamlit web app** for real-time detection.
 
 
