@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/03db14c4-c815-4e17-832d-2d7a49364780
+
 # 🚀 Duality AI - Space Station Object Detector
 
 This project was built for the **Duality AI - Space Station Hackathon**. We trained a YOLOv8 object detection model using synthetic images generated from the Falcon digital twin simulation platform to detect key space station items.
@@ -16,6 +19,9 @@ Detect space station objects such as **cheerios** and **soup cans** using synthe
 - Trained a YOLOv8n model for 50 epochs.
 - Achieved **mAP@50 of 0.668**.
 - Deployed the model via an interactive **Streamlit web app** for real-time detection.
+
+
+
 
 ---
 
